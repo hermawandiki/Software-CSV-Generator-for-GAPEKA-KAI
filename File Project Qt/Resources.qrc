@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>csv.ico</file>
+        <file>Logo-REKA--1536x530.png</file>
+        <file>Reka.png</file>
+        <file>train.ico</file>
+        <file>delete.png</file>
+        <file>exit.png</file>
+        <file>generate.png</file>
+        <file>reset.png</file>
+        <file>station.png</file>
+        <file>time.png</file>
+        <file>browse.png</file>
+        <file>save.png</file>
+    </qresource>
+</RCC>
