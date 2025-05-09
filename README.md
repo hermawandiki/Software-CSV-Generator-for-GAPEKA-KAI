@@ -1,7 +1,7 @@
 # Software-CSV-Generator-for-GAPEKA-KAI
 This project was completed during internship at PT Rekaindo Global Jasa (INKA Group), Madiun, Indonesia
 ## Placement Files Instruction
-File Project Qt : C:/Users/<user>/Documents/Qt Project/\
+File Project Qt : C:/Users/<user>/Documents/Qt Project/
 ## Contact me
 - Email : hermawansocmed@gmail.com
 - Github : [GitHub](https://github.com/hermawandiki)
