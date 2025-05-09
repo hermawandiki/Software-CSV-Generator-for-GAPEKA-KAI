@@ -2,7 +2,6 @@
 This project was completed during internship at PT Rekaindo Global Jasa (INKA Group), Madiun, Indonesia
 ## Placement Files Instruction
 File Project Qt : C:/Users/<user>/Documents/Qt Project/\
-Supported Files : C:/
 ## Contact me
 - Email : hermawansocmed@gmail.com
 - Github : [GitHub](https://github.com/hermawandiki)
